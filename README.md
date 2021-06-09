@@ -1,4 +1,4 @@
-# OpenCVImageProcessing
+# ImageProcessing
 
 Task Description 📄  
 📌 Create an image by yourself Using Python Code.  
